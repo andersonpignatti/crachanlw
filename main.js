@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: 'andersonpignatti',
   facebook: 'anderson.pignatti',
   instagram: 'anderson.pignatti',
-  linkedin: 'in/anderson-pignatti-b8097b1ba/'
+  linkedin: 'in/anderson-pignatti/'
 }
 
 function changeSocialMediaLinks() {
